@@ -1,0 +1,48 @@
+{
+  "cryptocurrencies": [
+    {
+      "symbol": "BTC",
+      "name": "BTC",
+      "exchanges": [
+        "coinbase",
+        "binance"
+      ],
+      "coinbasePair": "BTC-USDC",
+      "binancePair": "BTCUSDC",
+      "increment": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "ETH",
+      "exchanges": [
+        "coinbase",
+        "binance"
+      ],
+      "coinbasePair": "ETH-USDC",
+      "binancePair": "ETHUSDC",
+      "increment": 1
+    },
+    {
+      "symbol": "SOL",
+      "name": "SOL",
+      "exchanges": [
+        "coinbase",
+        "binance"
+      ],
+      "coinbasePair": "SOL-USDC",
+      "binancePair": "SOLUSDC",
+      "increment": 1
+    },
+    {
+      "symbol": "ADA",
+      "name": "ADA",
+      "exchanges": [
+        "coinbase",
+        "binance"
+      ],
+      "coinbasePair": "ADA-USDC",
+      "binancePair": "ADAUSDC",
+      "increment": 1
+    }
+  ]
+}
